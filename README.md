@@ -15,7 +15,7 @@ Navigate to `react-part` folder:
 
 - for development you will need to work with mock data
 
-## To create build`
+## To create build
 
 Navigate to `react-part` folder:
 
