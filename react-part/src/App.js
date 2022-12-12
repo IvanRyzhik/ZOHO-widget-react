@@ -24,8 +24,13 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React.js
         </a>
+        <button>
+          <a href="https://mui.com/material-ui/getting-started/installation/">
+            Learn Material UI
+          </a>
+        </button>
       </header>
     </div>
   );
